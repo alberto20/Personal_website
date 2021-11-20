@@ -111,6 +111,13 @@
 	padding: 0 50px;
 	
 }
+
+.footer__menu{
+	display: flex;
+	align-items: center;
+	list-style: none;
+}
+
 .footer__links:
 {
 	color: #fff;
@@ -123,7 +130,15 @@
 	transition: all 0.3 ease;
 }
 
-
 .footer__item{
 	height: 80px;
+}
+
+.footer__copyright{
+	color: #fff;
+	display: flex;
+	align-items: center;
+	cursor: pointer;
+	text-decoration: none;
+	font-size: 1.5rem;
 }
