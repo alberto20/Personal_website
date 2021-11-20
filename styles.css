@@ -98,6 +98,16 @@
 	transition: all 0.3 ease;
 }
 
-@media screen and (max-width: 960px)
+.foot__container:
 {
+	color:#fff;
+	display: flex;
+	height: 80px;
+	justify-content: space-between;
+	z-index: 1;
+	width: 100%;
+	max-width: 1300px;
+	margin: 0 auto;
+	padding: 0 50px;
 	
+}
