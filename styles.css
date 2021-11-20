@@ -111,3 +111,14 @@
 	padding: 0 50px;
 	
 }
+.foot__links:
+{
+	color: #fff;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 125px;
+	text-decoration: none;
+	height: 100%;
+	transition: all 0.3 ease;
+}
